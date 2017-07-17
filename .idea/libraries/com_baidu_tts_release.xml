@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.baidu.tts_release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DuerSdkLib/libs/com.baidu.tts_release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

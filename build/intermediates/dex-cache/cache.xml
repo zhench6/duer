@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5ecfa73fbbb9c40be75551f1a827fdf53f3403a">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\demo_src-DuerSdkLib-unspecified_d4f012f16578e3e44bd45a35a70ef8e244361300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="baf5ecfac959b589075a9610ee85ab0c8b762d0c">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_d644e87d41728ebe1768ffed2cb5234912b2bd1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\CrabSDK5.2.0-20160919.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97b669595f46280c98227b9ef62ea25bce433da6">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\CrabSDK5.2.0-20160919_c96196ddd9ff1c09d49960cf4ff95a969c5b15da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32eeb7bfb3993b8a93d58eceaff3762b2de98dc2">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\DuerSdkLib-unspecified-jars_d9d5ae8c6adfc85fda49f52a0af6e451aa246ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\bdasr_v3.0-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5615fde8d4fbced3e0a9fcd499399c169d7b3870">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\bdasr_v3.0-7_5f574f173e820f1e99b9812ff0cf718671a2a9aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_60e07621fe9eb7ceed06f4b1a4124cd05d0b4250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\com.baidu.tts_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9166888f88cf71798e716eeb2b17fd47441a7062">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\com.baidu.tts_release_b28e5e67119ebcd2060024b960a8281f5ce461aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\exploded-aar\demo_src\DuerSdkLib\unspecified\jars\libs\galaxy-lite-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d783ff164f826274770bbfb64ec27290d74a17a">
+        <dex dex="D:\Duer\sdk_v2_online\demo_src\app\build\intermediates\pre-dexed\debug\galaxy-lite-2.0.0_5d1bb212563702ef0a57c926e48465332c35a3a6.jar" />
+    </item>
+
+</items>

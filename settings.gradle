@@ -1,0 +1,2 @@
+include ':app', ':DuerSdkLib'
+project(':DuerSdkLib').projectDir = new File('DuerSdkLib')

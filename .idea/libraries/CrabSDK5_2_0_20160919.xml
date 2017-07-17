@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CrabSDK5.2.0-20160919">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DuerSdkLib/libs/CrabSDK5.2.0-20160919.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

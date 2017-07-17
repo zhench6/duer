@@ -1,0 +1,2 @@
+int raw bdspeech_recognition_start 0x7f020000
+int style login_dialog_style_01 0x7f030000

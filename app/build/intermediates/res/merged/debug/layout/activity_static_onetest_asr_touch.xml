@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/id_tv_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="按住说话模式"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/id_tv_label"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="一键测试前提：\n\n
+        1.将所有待测试的pcm（wav格式也可）文件放在手机的/sdcard/baidu/duersdk/pcms/文件夹下\n\n
+        2.点击一键测试，中途最好不要打断测试过程，直到整个测试过程完成\n\n
+        3.若手动打断，需再次点击开始，会从上次断开的pcm流开始继续进行测试\n\n
+        4.整个测试过程完成后，log保存在 /sdcard/baidu/duersdk/sdkLogAll.txt中\n\n"
+        />
+
+    <TextView
+        android:id="@+id/txt_status_one_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/voice_btn_one_test"
+        android:layout_marginBottom="30dp"
+        android:gravity="right"
+        android:text="测试未开始" />
+
+    <Button
+        android:id="@+id/voice_btn_one_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="一键测试" />
+
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\server.jpg",
+        "source": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\src\\main\\res\\mipmap-xhdpi\\server.jpg"
+    },
+    {
+        "merged": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\client.jpg",
+        "source": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\src\\main\\res\\mipmap-xhdpi\\client.jpg"
+    }
+]

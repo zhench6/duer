@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Duer\sdk_v2_online\demo_src\DuerSdkLib\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\Duer\sdk_v2_online\demo_src\DuerSdkLib\src\release\shaders"/></dataSet></merger>

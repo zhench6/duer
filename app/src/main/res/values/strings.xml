@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DuerSDKDemo</string>
+    <item name="firstholder" type="id">FirstHolder</item>
+    <item name="secondholder" type="id">SecondHolder</item>
+</resources>
