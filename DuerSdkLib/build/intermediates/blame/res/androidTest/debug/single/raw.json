@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Duer\\sdk_v2_online\\demo_src\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\bdspeech_recognition_start.mp3",
         "source": "D:\\Duer\\sdk_v2_online\\demo_src\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\raw\\bdspeech_recognition_start.mp3"
+    },
+    {
+        "merged": "D:\\Duer\\demo_src\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\bdspeech_recognition_start.mp3",
+        "source": "D:\\Duer\\demo_src\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\raw\\bdspeech_recognition_start.mp3"
     }
 ]

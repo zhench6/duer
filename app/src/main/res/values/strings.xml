@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">DuerSDKDemo</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
     <item name="firstholder" type="id">FirstHolder</item>
     <item name="secondholder" type="id">SecondHolder</item>
 </resources>

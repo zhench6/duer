@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Duer\\demo_src\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Duer\\demo_src\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "D:\\Duer\\sdk_v2_online\\demo_src\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }

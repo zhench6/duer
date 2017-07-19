@@ -36,7 +36,7 @@ public class ChatListAdapter extends BaseAdapter {
         return mData.get(position).type;
     }
 
-    //返回你有多少个不同的布局
+    //返回有多少个不同的布局
     @Override
     public int getViewTypeCount() {
         return 2;

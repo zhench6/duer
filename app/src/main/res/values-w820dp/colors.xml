@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_60">#3cffffff</color>
+    <!--splash_screen-->
+    <color name="text_alexa">#212121</color>
+    <color name="text_alexa_decription1">#153D43</color>
+    <color name="text_alexa_decription2">#7B8282</color>
+    <!--try_things_help-->
+    <color name="text_sign_out">#00B6E5</color>
+    <color name="text_help_des1">#757575</color>
+    <color name="text_help_des2">#010101</color>
+    <!--settings-->
+    <color name="black">#000000</color>
+    <color name="black_60">#9C000000</color>
+    <color name="alert_text_color">#478CFE</color>
+    <color name="light_gray">#47a9aba9</color>
+    <color name="text_menu">#292323</color>
+    <color name="text_things_des">#626262</color>
+    <color name="bc_dialog_title">#FAFAFA</color>
+    <color name="text_dialog_title_color">#1F1F1F</color>
+    <color name="text_dialog_cancel_color">#9E9E9E</color>
+    <color name="text_dialog_ok_color">#478CFE</color>
+    <color name="tv_switch_color">#1F1F1F</color>
+    <!--weather feature-->
+    <color name="gray">#a9aba9</color>
+    /*muic about-----star*/
+    <color name="translucent_white">#3DFFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="music_textwhite">#FFFFFF</color>
+    <color name="music_textgray">#A9AbA9</color>
+    /*music about-----end*/
+</resources>

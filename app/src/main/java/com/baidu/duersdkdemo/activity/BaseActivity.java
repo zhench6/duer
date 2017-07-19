@@ -2,7 +2,7 @@ package com.baidu.duersdkdemo.activity;
 
 /**
  * Created by zhench1 on 2017/7/4.
- * 设置状态栏为透明
+ * 设置Activity的状态栏为透明
  */
 
 
@@ -14,9 +14,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-
-
-
 
 public abstract class BaseActivity extends AppCompatActivity {
 
